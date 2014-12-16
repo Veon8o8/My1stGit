@@ -1,2 +1,2 @@
 2014.12.16 09:13
-成功上传至GitHub, 使用工具为TortoiseGit-1.8.12.0-32bit.msi
+鎴愬姛涓婁紶鑷矴itHub, 浣跨敤宸ュ叿涓篢ortoiseGit-1.8.12.0-32bit.msi
